@@ -8,3 +8,4 @@ https://soundcloud.com/nodeup/119a
 http://jstherightway.org/
 https://martinfowler.com/eaaDev/EventNarrative.html
 http://nikhilm.github.io/uvbook/basics.html
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
