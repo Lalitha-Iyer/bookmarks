@@ -7,3 +7,4 @@ https://medium.com/@bluepnume/async-javascript-is-much-more-fun-when-you-spend-l
 https://soundcloud.com/nodeup/119a
 http://jstherightway.org/
 https://martinfowler.com/eaaDev/EventNarrative.html
+http://nikhilm.github.io/uvbook/basics.html
