@@ -15,3 +15,6 @@ https://marketplace.visualstudio.com/items?itemName=sdras.night-owl&WT.mc_id=twi
 https://medium.com/front-end-hacking/immutability-in-array-of-objects-using-map-method-dd61584c7188
 
 https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+
+#micorservices
+https://www.siliconvalley-codecamp.com/Presenter/2018/brad-irby-1725 .
