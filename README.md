@@ -18,7 +18,10 @@ https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 
 #micorservices
 https://www.siliconvalley-codecamp.com/Presenter/2018/brad-irby-1725 .
-
+https://docs.google.com/presentation/d/1OZ5YdWehk6RfGkPqM4eL8Ikevig2mcWzcH_rlMu94YI/edit#slide=id.g43aac56bfe_1_0
 
 npm packages
 https://github.com/sindresorhus/ora
+
+##systems
+https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-sharma.pdf
