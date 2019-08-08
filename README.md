@@ -21,6 +21,11 @@ https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
   https://docs.google.com/presentation/d/1OZ5YdWehk6RfGkPqM4eL8Ikevig2mcWzcH_rlMu94YI/edit#slide=id.g43aac56bfe_1_0 
   https://alobria-my.sharepoint.com/personal/brad_bradirby_com/_layouts/15/Doc.aspx?sourcedoc=%7Ba9f23315-3195-4e13-8557-b36995fd6c61%7D&action=default&CID=05880fc6-42a4-4e81-9f81-90fa1a9c2382&slrid=597bcd9e-009c-8000-5225-a6f956ccbcb8  
 
+
+#burrsutter microservices
+https://burrsutter.com/wp-content/uploads/2018/04/BS_020118_DNL_Istio_-Canaries-and-Kubernetes.pdf
+https://youtu.be/g9K4cN-waGI
+
 npm packages
 https://github.com/sindresorhus/ora
 
